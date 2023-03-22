@@ -9,14 +9,15 @@
 <p align="center">
 
 ```  
-   For Contact : xは#0001
 
 🔍 Information
 
    XBASH Multi Tool is a Discord Tool
    for Nuking, Joining, Reporting etc.
+   For Contact dm xは#0001
    
-   
+   Buy here > discord.gg/xbash
+      
    
 🛠️ Requirements
     
@@ -27,8 +28,9 @@
    
 🛠️ Key
 
-    - The Key is "FreeForAll"
-    - You can edit the key in the py file
+    - You will receive the key instandly after the purchase.
+    - I can see your key time, how many devices etc.
+    - You key only works on 1 Device.
    
  
 ```
