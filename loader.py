@@ -90,7 +90,7 @@ if licenseKey == v[0]:
         print()
         print(f"                                [1] Nitro Gen + Checker            [5] Id to Token")
         print(f"                                [2] Discord Nuker                  [6] Webhook Spammer ")
-        print(f"                                [3] Mass Report                    [7] Token Checker ")
+        print(f"                                [3] Mass Report (by O-ffender)     [7] Token Checker ")
         print(f"                                [4] Server Joiner                  [8] Mass DM ")
         print()
         print(f"                                [9] EXIT                           v3.2.9")
