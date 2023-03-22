@@ -1,7 +1,9 @@
  
 <h1 align="center">⭐ XBASH Multi Tool ⭐  </h1>
-<p align="center">
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1086987915642552410/1088109003927724082/Screenshot_2023-03-22_153044.png">
+</p>
 </p>
 
 <p align="center">
