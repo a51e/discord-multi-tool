@@ -16,7 +16,7 @@
    for Nuking, Joining, Reporting etc.
    For Contact dm xは#0001
    
-   Buy here > discord.gg/xbash
+   Buy here > discord.gg/acio
       
    
 🛠️ Requirements
