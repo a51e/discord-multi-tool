@@ -1,8 +1,8 @@
  
-<h1 align="center">⭐ XBASH Multi Tool ⭐  </h1>
+<h1 align="center">⭐ ACIO Multi Tool ⭐  </h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1086987915642552410/1088109003927724082/Screenshot_2023-03-22_153044.png">
+  <img src="https://cdn.discordapp.com/attachments/1086603158140227624/1088946890034380810/Screenshot_2023-03-24_230548.png">
 </p>
 </p>
 
@@ -12,7 +12,7 @@
 
 🔍 Information
 
-   XBASH Multi Tool is a Discord Tool
+   ACIO Multi Tool is a Discord Tool
    for Nuking, Joining, Reporting etc.
    For Contact dm xは#0001
    
@@ -31,6 +31,7 @@
     - You will receive the key instandly after the purchase.
     - I can see your key time, how many devices etc.
     - You key only works on 1 Device.
+    - If i see that somebody shares a key i will delete the key and you will not become a refund!
    
  
 ```
