@@ -18,7 +18,7 @@ https://streamable.com/e/ne5a1l
    for Nuking, Joining, Reporting etc.
    For Contact dm xは#0001
    
-   Buy here > discord.gg/acio
+   Buy here > discord.gg/suqar
       
    
 🛠️ Requirements
