@@ -1,8 +1,8 @@
  
-<h1 align="center">⭐ ACIO Multi Tool ⭐  </h1>
+<h1 align="center">⭐ Suqar Multi Tool ⭐  </h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1086603158140227624/1088946890034380810/Screenshot_2023-03-24_230548.png">
+  <img src="https://cdn.discordapp.com/attachments/1093289506821648434/1097865100737642596/image.png">
 </p>
 </p>
 
