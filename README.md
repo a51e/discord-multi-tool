@@ -14,26 +14,18 @@ https://streamable.com/e/ne5a1l
 
 🔍 Information
 
-   ACIO Multi Tool is a Discord Tool
+   suqar Multi Tool is a Discord Tool
    for Nuking, Joining, Reporting etc.
-   For Contact dm xは#0001
+   For Contact join server.
    
-   Buy here > discord.gg/suqar
+   Discord > https://discord.gg/suqar
       
    
 🛠️ Requirements
     
     - Python 3.10+
     - Visual Studio Code (For editing the code)
-    - requirements.txt (pip install requirements.txt)
-    
-   
-🛠️ Key
-
-    - You will receive the key instandly after the purchase.
-    - I can see your key time, how many devices etc.
-    - You key only works on 1 Device.
-    - If i see that somebody shares a key i will delete the key and you will not become a refund!
+    - requirements (pip install setup.bat)
    
  
 ```
