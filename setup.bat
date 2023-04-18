@@ -10,4 +10,4 @@ pip install requests
 pip install time
 pip install getpass
 pip install discord.py
-python loader.py
+python suqar.py
