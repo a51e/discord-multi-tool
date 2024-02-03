@@ -8,7 +8,6 @@
 
 <p align="center">
 
-https://streamable.com/e/ne5a1l
 
 ```  
 
@@ -18,7 +17,7 @@ https://streamable.com/e/ne5a1l
    for Nuking, Joining, Reporting etc.
    For Contact join server.
    
-   Discord > https://discord.gg/suqar
+   Discord > https://discord.gg/haruma
       
    
 🛠️ Requirements
